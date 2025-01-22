@@ -1,0 +1,187 @@
+{
+  "equipment": [
+    {
+      "id": 1,
+      "type": "head",
+      "name": "Iron Helmet",
+      "rarity": "Common",
+      "stats": {
+        "armor": 10,
+        "durability": 100
+      }
+    },
+    {
+      "id": 2,
+      "type": "head",
+      "name": "Steel Helmet",
+      "rarity": "Uncommon",
+      "stats": {
+        "armor": 15,
+        "durability": 120
+      }
+    },
+    {
+      "id": 3,
+      "type": "chest",
+      "name": "Leather Chestplate",
+      "rarity": "Common",
+      "stats": {
+        "armor": 12,
+        "durability": 80
+      }
+    },
+    {
+      "id": 4,
+      "type": "chest",
+      "name": "Chainmail Chestplate",
+      "rarity": "Rare",
+      "stats": {
+        "armor": 20,
+        "durability": 150
+      }
+    },
+    {
+      "id": 5,
+      "type": "hands",
+      "name": "Cloth Gloves",
+      "rarity": "Common",
+      "stats": {
+        "armor": 5,
+        "durability": 50
+      }
+    },
+    {
+      "id": 6,
+      "type": "hands",
+      "name": "Iron Gauntlets",
+      "rarity": "Uncommon",
+      "stats": {
+        "armor": 10,
+        "durability": 90
+      }
+    },
+
+    {
+      "id": 7,
+      "type": "wrist",
+      "name": "Leather Bracers",
+      "rarity": "Common",
+      "stats": {
+        "armor": 8,
+        "durability": 70
+      }
+    },
+    {
+      "id": 8,
+      "type": "wrist",
+      "name": "Steel Bracers",
+      "rarity": "Uncommon",
+      "stats": {
+        "armor": 14,
+        "durability": 110
+      }
+    },
+    {
+      "id": 9,
+      "type": "legs",
+      "name": "Cloth Leggings",
+      "rarity": "Common",
+      "stats": {
+        "armor": 7,
+        "durability": 60
+      }
+    },
+    {
+      "id": 10,
+      "type": "legs",
+      "name": "Plate Leggings",
+      "rarity": "Rare",
+      "stats": {
+        "armor": 18,
+        "durability": 140
+      }
+    },
+    {
+      "id": 11,
+      "type": "feet",
+      "name": "Leather Boots",
+      "rarity": "Common",
+      "stats": {
+        "armor": 6,
+        "durability": 50
+      }
+    },
+    {
+      "id": 12,
+      "type": "feet",
+      "name": "Steel Boots",
+      "rarity": "Uncommon",
+      "stats": {
+        "armor": 12,
+        "durability": 100
+      }
+    },
+
+    {
+      "id": 13,
+      "type": "shoulders",
+      "name": "Cloth Pauldrons",
+      "rarity": "Common",
+      "stats": {
+        "armor": 8,
+        "durability": 70
+      }
+    },
+    {
+      "id": 14,
+      "type": "shoulders",
+      "name": "Iron Pauldrons",
+      "rarity": "Uncommon",
+      "stats": {
+        "armor": 14,
+        "durability": 110
+      }
+    },
+
+    {
+      "id": 15,
+      "type": "back",
+      "name": "Traveler's Cape",
+      "rarity": "Common",
+      "stats": {
+        "style": 5,
+        "durability": 50
+      }
+    },
+    {
+      "id": 16,
+      "type": "back",
+      "name": "Royal Cape",
+      "rarity": "Epic",
+      "stats": {
+        "style": 15,
+        "durability": 100
+      }
+    },
+    {
+      "id": 17,
+      "type": "neck",
+      "name": "Amulet of Vitality",
+      "rarity": "Rare",
+      "stats": {
+        "health": 50,
+        "mana": 20
+      }
+    },
+    {
+      "id": 18,
+      "type": "neck",
+      "name": "Pendant of Wisdom",
+      "rarity": "Epic",
+      "stats": {
+        "health": 30,
+        "mana": 50
+      }
+    }
+  ]
+}

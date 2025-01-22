@@ -1,0 +1,49 @@
+{
+  "characterGearSlots": [
+    {
+      "slot": "head",
+      "name": "Helmet",
+      "type": "Armor"
+    },
+    {
+      "slot": "chest",
+      "name": "Chestplate",
+      "type": "Armor"
+    },
+    {
+      "slot": "hands",
+      "name": "Gloves",
+      "type": "Armor"
+    },
+    {
+      "slot": "wrist",
+      "name": "Bracers",
+      "type": "Armor"
+    },
+    {
+      "slot": "legs",
+      "name": "Leggings",
+      "type": "Armor"
+    },
+    {
+      "slot": "feet",
+      "name": "Boots",
+      "type": "Armor"
+    },
+    {
+      "slot": "shoulders",
+      "name": "Pauldrons",
+      "type": "Armor"
+    },
+    {
+      "slot": "back",
+      "name": "Cape",
+      "type": "Clothing"
+    },
+    {
+      "slot": "neck",
+      "name": "Necklace",
+      "type": "Accessory"
+    }
+  ]
+}
