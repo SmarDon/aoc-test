@@ -54,8 +54,8 @@ function appendPossibleGear(gearArray, currentGearSlot) {
       </div>
       <div class="flex-column">
           <h3>${gearPiece.rarity}</h4> <!-- Gear rarity -->
-          <h4>Armor: ${gearPiece.stats.armor}</h4> <!-- Gear armor stat -->
-          <h4>Durability: ${gearPiece.stats.durability}</h4> <!-- Gear durability stat -->
+          <h4>${gearPiece.stats[0].name}: ${gearPiece.stats[0].value}</h4> <!-- Gear armor stat -->
+          <h4>${gearPiece.stats[1].name}: ${gearPiece.stats[1].value}</h4> <!-- Gear armor stat -->
       </div>
       `;
 
